@@ -12,6 +12,7 @@ class Employee:
 
 emp1 =  Employee('krishna','polavarapu',25000)
 print(emp1.email)
+		#new comment added
         print(emp1.fullname())
 # print(Employee.fullname(emp1))
 
